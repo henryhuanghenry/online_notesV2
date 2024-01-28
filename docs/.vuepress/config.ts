@@ -11,20 +11,22 @@ export default defineUserConfig({
   //description: 'Just playing around',
   host: 'localhost',
   port: 8090,
-  base:'/online_notes/',
+  base:'/online_notesV2/',
 
 
   theme: defaultTheme({
     sidebar: sidebar,
     navbar: navbar,
     logo: '../homepage_resource/homepage.png' 
-
   }),
   
   plugins: [
       mdEnhancePlugin({
       // 启用 TeX 支持
       katex: true,
+      mark: true,
+      hint: true,
+      alert: true
       }),
   ],
 

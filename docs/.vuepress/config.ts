@@ -7,7 +7,7 @@ import navbar from './config/config_nav.js'
 
 export default defineUserConfig({
   //lang: 'en-US',
-  title: 'Yusheng Huang\'s page',
+  title: 'Online notes',
   //description: 'Just playing around',
   host: 'localhost',
   port: 8090,
@@ -17,7 +17,7 @@ export default defineUserConfig({
   theme: defaultTheme({
     sidebar: sidebar,
     navbar: navbar,
-    logo: '../homepage_resource/homepage.png' 
+    logo: '/icon.gif',
   }),
   
   plugins: [

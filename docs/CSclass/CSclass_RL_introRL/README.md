@@ -24,4 +24,7 @@
 - cme241 Foundations of Reinforcement Learning with Applications in Finance.
   - 课程主页：https://cme241.github.io/
   - slides：https://github.com/coverdrive/technical-documents/tree/master/finance/cme241
-- 
+  - d 
+
+
+<PDF url="/BellmanOperators.pdf" />

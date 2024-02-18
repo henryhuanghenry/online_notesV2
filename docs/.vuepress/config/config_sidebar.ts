@@ -25,7 +25,7 @@ import type { SidebarConfig } from '@vuepress/theme-default';
 function generateSidebarItem(pathPrefix: string, docsFolderPath: string): string[] {
   const sidebar_children: string[] = 
   fs.readdirSync(path.resolve(__dirname, pathPrefix + docsFolderPath)).filter(f => f !== 'pic' 
-  && f.includes('.md') && !f.includes('.DS')).map(f => docsFolderPath + f);
+  && f.includes('.md') && !f.includes('.DS')).map(f => docsFolderPath + f).sort();
   //.map(f => (path.join(f)));
   // f => (path.join(docsFolderPath, f)));
   //f => ({ text: path.join(folderPath, f), collapsible: true, sidebarDepth: 1}));
@@ -48,6 +48,14 @@ const sidebar: SidebarConfig = {
       collapsible: true,
       //sidebarDepth: 1,
       children: generateSidebarItem('../../.', '/CSclass/CSclass_RL_introRL/'),
+    },
+  ],
+  '/CSclass/CSclass_RL_LeeRL/': [
+    {
+      text: 'LeeRL笔记',
+      collapsible: true,
+      //sidebarDepth: 1,
+      children: generateSidebarItem('../../.', '/CSclass/CSclass_RL_LeeRL/'),
     },
   ],
   '/Algorithm/': [

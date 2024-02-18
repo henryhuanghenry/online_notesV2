@@ -5,6 +5,9 @@
 - 为introRL的课程笔记
   - 课程链接在：https://github.com/zhoubolei/introRL/tree/master
   - video: [强化学习纲要 第二课 马尔科夫决策过程 上](https://www.bilibili.com/video/BV1g7411m7Ms/?share_source=copy_web&vd_source=09dacd0c6d3992d8c9216969b74b1197)
+- 更详细的参考：UCL David Silver的课件
+  - [课程主页](https://www.davidsilver.uk/teaching/)
+
 
 ---
 
@@ -19,12 +22,19 @@
 
 ---
 
+强化学习的代码参考
+
+- https://github.com/XinJingHao/Deep-Reinforcement-Learning-Algorithms-with-Pytorch
+
+
+
+---
+
 其他相关课程
 
 - cme241 Foundations of Reinforcement Learning with Applications in Finance.
   - 课程主页：https://cme241.github.io/
   - slides：https://github.com/coverdrive/technical-documents/tree/master/finance/cme241
-  - d 
 
 
-<PDF url="/BellmanOperators.pdf" />
+PDF url="/BellmanOperators.pdf" />

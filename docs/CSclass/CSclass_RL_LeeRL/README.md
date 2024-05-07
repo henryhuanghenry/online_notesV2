@@ -21,8 +21,8 @@
   
 - 主课程剩余未看：
 
-  - Sparse Reward [pdf](https://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/Reward (v3).pdf),[pptx](https://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/Reward (v3).pptx),[video](https://youtu.be/-5cCWhu0OaM) (2018/06/15)
-  - Imitation Learning [pdf](https://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/IRL (v2).pdf),[pptx](https://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/IRL (v2).pptx),[video](https://youtu.be/rl_ozvqQUU8) (2018/06/15)
+  - Sparse Reward [pdf](https://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/Reward (v3).pdf) , [pptx](https://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/Reward (v3).pptx) , [video](https://youtu.be/-5cCWhu0OaM) (2018/06/15)
+  - Imitation Learning [pdf](https://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/IRL (v2).pdf) , [pptx](https://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/IRL (v2).pptx) , [video](https://youtu.be/rl_ozvqQUU8) (2018/06/15)
 
 
 

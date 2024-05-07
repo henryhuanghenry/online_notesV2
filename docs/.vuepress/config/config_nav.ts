@@ -27,6 +27,12 @@ const navbar: NavBarItem[] = [
         // 该元素将一直处于激活状态
         activeMatch: '^/CSclass/CSclass_RL_LeeRL/',
       },
+      {
+        text: 'DRL_CS285',
+        link: '/CSclass/CSclass_RL_DRL_CS285/README.md',
+        // 该元素将一直处于激活状态
+        activeMatch: '^/CSclass/CSclass_RL_DRL_CS285/',
+      },
     ],
   },
   {

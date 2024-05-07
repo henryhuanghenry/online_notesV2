@@ -58,6 +58,14 @@ const sidebar: SidebarConfig = {
       children: generateSidebarItem('../../.', '/CSclass/CSclass_RL_LeeRL/'),
     },
   ],
+  '/CSclass/CSclass_RL_DRL_CS285/': [
+    {
+      text: 'CS285笔记',
+      collapsible: true,
+      //sidebarDepth: 1,
+      children: generateSidebarItem('../../.', '/CSclass/CSclass_RL_DRL_CS285/'),
+    },
+  ],
   '/Algorithm/': [
     {
       text: '算法学习笔记',
